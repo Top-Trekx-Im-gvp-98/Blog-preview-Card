@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog preview card code snippets](https://your-solution-url.com)
-- Live Site URL: [Blog preview card website](https://your-live-site-url.com)
+- Solution URL: [Blog preview card code snippets](https://github.com/Top-Trekx-Im-gvp-98/Blog-preview-Card)
+- Live Site URL: [Blog preview card website](https://blog-preview-card-im-gvp-98.netlify.app/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Govardhan VP](https://www.frontendmentor.io/profile/Top-Trekx-Im-gvp-98)
 
